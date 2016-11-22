@@ -1,5 +1,1 @@
-<<<<<<< ddc69b2128534230917c499c83bab50d1598c867
-git test3
-=======
-git test4
->>>>>>> 3fd761c8e5e4f87ca5cdf246263016a56db81fac
+git test
